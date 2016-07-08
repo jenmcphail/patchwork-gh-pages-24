@@ -1,6 +1,6 @@
 ---
 profileimage: "https://avatars3.githubusercontent.com/u/18298639?v=3&s=460"
-name: "Jen McPhail"
+name: "Jen McPhail test"
 title: "Full Stack Web Developer"
 ---
 
